@@ -4,6 +4,7 @@ function myfunction(){
 $veg='onion';
 $colour='red';
 
+
 echo"the vegitable is ".$veg."</br>";
 echo"the colour is ".$colour."</br>";
 }myfunction();
@@ -14,7 +15,8 @@ $colour='red';
 print"the vegitable is ".$veg."</br>";
 print"the colour is ".$colour."</br>";
 
-//string 
+
+//variables
 $name='the lal world';
 $game='the cricket for';
 
