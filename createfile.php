@@ -25,6 +25,7 @@ echo $game."</br>";
 //intiger
 $x=5;
 $y=10;
+echo $x+$y;
 
 echo $x+$y."</br>";
 //float
