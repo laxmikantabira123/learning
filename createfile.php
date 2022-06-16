@@ -1,5 +1,5 @@
 <?php
-
+//this is a php file
 function myfunction(){
 $veg='onion';
 $colour='red';
